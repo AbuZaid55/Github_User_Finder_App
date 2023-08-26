@@ -11,7 +11,7 @@ I added debounce functionality and also a pagination functionality.
 
 ## Screenshots
 
-![Screenshot_20230820_164846](https://github.com/AbuZaid55/Image_Gallery/assets/115403447/9822cca6-9479-466c-9fc0-46fe790ddf60)
+![Screenshot_20230826_042450](https://github.com/AbuZaid55/Github_User_Finder_App/assets/115403447/4e2dfcdd-665d-47c6-acd0-1a583ec77627)
 
 
 ## 🔗 Links
